@@ -1,0 +1,5 @@
+manifest_version: 1
+name: ChunkSpacySentencizer
+description: "Sentencizes a Document's chunks with SpacySentencizer"
+keywords: [spacy, chunks, sentencizer, segmenter]
+url: "https://github.com/alexcg1/executor-chunk-spacy-sentencizer"

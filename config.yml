@@ -1,0 +1,4 @@
+jtype: ChunkSpacySentencizer
+metas:
+  py_modules:
+    - executor.py
